@@ -1,0 +1,17 @@
+# Large source datasets and Power BI working files
+*.bak
+*.zip
+*.pbix
+*.xlsx
+*.inspect.ndjson
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
